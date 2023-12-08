@@ -1,7 +1,7 @@
 package Atividade3Pontos;
 import java.util.Scanner;
 
-public class questao11 {
+public class Questao11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
